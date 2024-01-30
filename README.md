@@ -5,4 +5,4 @@ An application that utilizes the third-party API named OpenWeather to retrieve w
 
 Screenshot of deployed site: 
 
-![alt text] (C:\Users\dpena\bootcamp\Weather-Dashboard\assets\Screenshot 2024-01-30 174030.png)
+![A user clicks on the search for city and looks up a city's weather](C:\Users\dpena\bootcamp\Weather-Dashboard\assets\weatherdashboard.png)
