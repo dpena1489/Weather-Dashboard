@@ -5,7 +5,7 @@ An application that utilizes the third-party API named OpenWeather to retrieve w
 
 Repository link: https://github.com/dpena1489/Weather-Dashboard
 
-Active site link:
+Active site link: https://dpena1489.github.io/Weather-Dashboard/
 
 Screenshot of deployed site: 
 ![Alt text](assets/weatherdashbord.png)
